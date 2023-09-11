@@ -3,4 +3,4 @@ HelloWorldApp
 
 Hello World Android App
 
-<img src="![image](https://github.com/VirtuallyInsxne/HelloWorldApp/assets/113473537/0100b1a3-703b-449e-8558-b7434365c246)" width="450" />
+![image](https://github.com/VirtuallyInsxne/HelloWorldApp/assets/113473537/f96e0f00-26ed-4eb3-9fea-c344a4441a0c)
