@@ -1,4 +1,4 @@
-android_hello_world
+HelloWorldApp
 ===================
 
 Hello World Android App
